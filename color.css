@@ -1,0 +1,25 @@
+.first{
+    background-color: blue;
+}
+.second{font-size: 30px;
+    background-color: blue;
+}
+.bp{ font-size: 30px;
+    border: 2px dashed green;
+    
+    
+}
+.aze{ border: 3px dashed red
+
+}
+.pl{ font-size: 20px;
+    color: green;
+}
+.tr{ 
+    background-color: green;
+    font-size: 20px;
+    color: rgb(9, 0, 128);
+}
+.table{
+    border-collapse: collapse;
+}
